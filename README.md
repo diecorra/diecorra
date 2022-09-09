@@ -19,16 +19,13 @@ I'm ambitius and creative person 🎨, and at the same time, I want to learn and
 
 <br>
 
-### 🔨 Languages and Tools:
+### 🔨 Languages:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="left" alt="HTML5" height ="42px" src="https://github.com/diecorra/diecorra/blob/main/assets/html-5.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="left" alt="CSS3" height ="42px" src="https://github.com/diecorra/diecorra/blob/main/assets/css.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://github.com/diecorra/diecorra/blob/main/assets/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height ="42px" src="https://github.com/diecorra/diecorra/blob/main/assets/typescript.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://github.com/diecorra/diecorra/blob/main/assets/react.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/diecorra/diecorra/blob/main/assets/java.svg"></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="VSCode" height ="42px" src="https://github.com/diecorra/diecorra/blob/main/assets/vscode.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/diecorra/diecorra/blob/main/assets/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 <br><br><br>
 
