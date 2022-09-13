@@ -6,8 +6,6 @@ In my free time I study web development topics 📚, doing courses and make proj
 I'm ambitius and creative person 🎨, and at the same time, I want to learn and improve myself everyday 🛠️.
 <br/><br/>
 
-<img align="right" alt="GIF" src="https://github.com/diecorra/diecorra/blob/main/assets/web-dev.gif" width="360px"/>
-
 ### 🧐 More About Me:
 
 - 🌱 &nbsp; I’m currently learning more about Typescript, JavaScript and React.js; 
